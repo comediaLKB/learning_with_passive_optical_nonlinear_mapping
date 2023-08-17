@@ -9,7 +9,7 @@ This repository contains the code and data used in the study "Learning with Pass
 
 ## Quick Guide
 
-1. **Data Collection**: The data collected through the passive optical nonlinear mapping setup can be found in the `data/` folder. The data includes partial experimental results as well as simulated data.
+1. **Data**: The partial data reconstructed through the passive optical nonlinear mapping setup can be found in the `data/` folder. The data includes FashionMNIST reconstruction results.
 
 2. **Code**: The `code/` folder contains the code used for training and analyzing the data produced by the setup. It includes code for preprocessing the data, training models, and evaluating performance.
 
