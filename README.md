@@ -17,8 +17,10 @@ This repository contains the code and data used in the study "Learning with Pass
 
 ## Citation
 
-If you use any of the datasets or code in this repository for your research, please consider citing our work:\\
-Xia, F., Kim, K., Eliezer, Y., Shaughnessy, L., Gigan, S., & Cao, H. (2023). Deep Learning with Passive Optical Nonlinear Mapping. arXiv preprint arXiv:2307.08558. \\
+If you use any of the datasets or code in this repository for your research, please consider citing our work:
+
+Xia, F., Kim, K., Eliezer, Y., Shaughnessy, L., Gigan, S., & Cao, H. (2023). Deep Learning with Passive Optical Nonlinear Mapping. arXiv preprint arXiv:2307.08558.
+
 [link to the paper](https://arxiv.org/abs/2307.08558)
 
 
