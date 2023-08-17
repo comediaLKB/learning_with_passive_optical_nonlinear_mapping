@@ -1,6 +1,6 @@
 # learning_with_passive_optical_nonlinear_mapping
 
-This repository contains the code and data used in the study "Learning with Passive Optical Nonlinear Mapping." We constructed a passive optical nonlinear mapping setup with nonlinear optical components to demonstrate its learning from hihgly nonlinear optical features. The repository provides the code used for training and analyzing the data produced by the setup.
+This repository contains the code and data used in the study "Learning with Passive Optical Nonlinear Mapping." We constructed a passive optical nonlinear mapping setup with a multiple-scattering cavity to demonstrate its learning from hihgly nonlinear optical features. The repository provides the code used for training and analyzing the data produced by the setup.
 
 ## Repository Contents
 
